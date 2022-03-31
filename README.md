@@ -1,2 +1,2 @@
-# Digital_Medi_Lithophane
+# Digital_Media_Lithophane
 Digital Media Project - Light up Lithophane Book
