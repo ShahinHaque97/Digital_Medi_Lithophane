@@ -6,5 +6,9 @@ A collaboration between the two disciplines at Plymouth University. School of En
 Front view of the book:
 ![Front Cover](https://user-images.githubusercontent.com/91026445/168064037-a8e3bbdd-460a-4aca-8d01-0a3137eb2467.jpg)
 
-Side view of the book: 
+Side view of the book, slide in the cartridge into the light houseing: 
 ![Side View](https://user-images.githubusercontent.com/91026445/168065022-c50d5130-2ea6-4153-bacb-9115fa7fa8da.jpg)
+
+Without cartridge:
+
+![Housing without cartridge](https://user-images.githubusercontent.com/91026445/168065629-b5a1761b-367a-471e-bf89-6d8a2547e906.jpg)
