@@ -11,4 +11,5 @@ Side view of the book, slide in the cartridge into the light houseing:
 
 Without cartridge:
 
-![Housing without cartridge](https://user-images.githubusercontent.com/91026445/168065629-b5a1761b-367a-471e-bf89-6d8a2547e906.jpg)
+![Housing without cartridge](https://user-images.githubusercontent.com/91026445/168065701-b0ef3fff-5ad4-432d-bb5f-5005fad04652.jpg)
+
