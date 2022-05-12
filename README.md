@@ -18,8 +18,8 @@ Tamera Chilcott - Digital Media
 
 Chris Booth - Lecturer
 
-- Christopher.Booth@plymouth.ac.uk
 - https://www.linkedin.com/in/chris-booth-68574265/
+- Christopher.Booth@plymouth.ac.uk
 
 
 
