@@ -4,6 +4,7 @@ Digital Media Project - Light up Lithophane Book
 A collaboration between the two disciplines at Plymouth University. School of Engineering, Mathematics and Computing with the School of Art design and Architecture. The goal is to create a light up lithophane book. 
 
 Members of this project:
+
 Shahin Haque - Robotics
 - https://www.linkedin.com/in/shahinhaque97/
 - ShahinHaque97@outlook.com / Shahin.Haque@students.plymouth.ac.uk
