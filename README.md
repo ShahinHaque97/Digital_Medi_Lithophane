@@ -14,6 +14,11 @@ Tamera Chilcott - Digital Media
 - https://www.artstation.com/tamerachilcott
 - Tamera.Chilcott@students.plymouth.ac.uk
 
+Chris Booth - Lecturer
+-Christopher.Booth@plymouth.ac.uk
+-https://www.linkedin.com/in/chris-booth-68574265/
+
+
 
 Front view of the book:
 ![Front Cover](https://user-images.githubusercontent.com/91026445/168064037-a8e3bbdd-460a-4aca-8d01-0a3137eb2467.jpg)
