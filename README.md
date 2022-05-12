@@ -15,8 +15,6 @@ Tamera Chilcott - Digital Media
 - Tamera.Chilcott@students.plymouth.ac.uk
 
 
-https://www.artstation.com/tamerachilcott
-
 Front view of the book:
 ![Front Cover](https://user-images.githubusercontent.com/91026445/168064037-a8e3bbdd-460a-4aca-8d01-0a3137eb2467.jpg)
 
